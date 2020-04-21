@@ -15,7 +15,28 @@
       "address": "7002 Chestnut Ct"
     }
   ],
-  "employees": [],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jane Smith",
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "name": "Mark Blunt",
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Chris Crab",
+      "locationId": 2
+    },
+    {
+      "id": 4,
+      "name": "Joe Dirt",
+      "locationId": 2
+    }
+  ],
   "locations": [
     {
       "id": 1,
