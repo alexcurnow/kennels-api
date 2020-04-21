@@ -6,6 +6,27 @@
       "breed": "Poodle",
       "customerId": 1,
       "locationId": 2
+    },
+    {
+      "id": 2,
+      "name": "Jack",
+      "breed": "Jack Russel Terrier",
+      "customerId": 2,
+      "locationId": 2
+    },
+    {
+      "id": 3,
+      "name": "Jasper",
+      "breed": "Dachshund",
+      "customerId": 3,
+      "locationId": 1
+    },
+    {
+      "id": 4,
+      "name": "Molly",
+      "breed": "Schitzu",
+      "customerId": 4,
+      "locationId": 1
     }
   ],
   "customers": [
@@ -13,6 +34,21 @@
       "id": 1,
       "name": "Hannah Hall",
       "address": "7002 Chestnut Ct"
+    },
+    {
+      "id": 2,
+      "name": "Toby Keith",
+      "address": "404 Country Rd"
+    },
+    {
+      "id": 3,
+      "name": "Mark Hamburg",
+      "address": "639 Pork Ave"
+    },
+    {
+      "id": 4,
+      "name": "Jessica James",
+      "address": "5000 Noble St"
     }
   ],
   "employees": [
